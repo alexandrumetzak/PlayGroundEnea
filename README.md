@@ -1,6 +1,6 @@
 # PlayGroundEnea
 
-Problema 1: Fixati erorile de compilare astfel incat linia 22 (nemodificata) sa se execute cu succes. 
+Problema 1: Fixati erorile de compilare astfel incat linia 22 din fisierul PlayGround.cpp (nemodificata) sa se execute cu succes. 
 Comentariile, explicatiile sau imbunatatirile de orice fel sunt incurajate. Apreciem un stil consistent de coding (aliniere, ordonare etc.)
 
 
